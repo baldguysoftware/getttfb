@@ -37,6 +37,6 @@ Lots of things.
 
  * More (some?) error checking on the Redis commands
  * Make the "test type/name" variable optional - perhaps an ENV variable?
- * Travis.io integration and github release upload?
+ * Travis-ci.org integration and github release upload?
  * Create a Docker file
  * Docker Hub image auto-upload?
