@@ -1,0 +1,4 @@
+INSTALLATION
+============
+
+The standard ./configure, make, and make install works.
